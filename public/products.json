@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Бумага А4",
+    "demand": 1200,
+    "orderCost": 250,
+    "holdingCost": 5,
+    "unit": "пачек"
+  },
+  {
+    "id": 2,
+    "name": "Картриджи для принтера",
+    "demand": 300,
+    "orderCost": 500,
+    "holdingCost": 20,
+    "unit": "шт"
+  },
+  {
+    "id": 3,
+    "name": "Скотч упаковочный",
+    "demand": 1000,
+    "orderCost": 200,
+    "holdingCost": 3,
+    "unit": "рулонов"
+  },
+  {
+    "id": 4,
+    "name": "Коробки 30x30",
+    "demand": 800,
+    "orderCost": 150,
+    "holdingCost": 2,
+    "unit": "шт"
+  },
+  {
+    "id": 5,
+    "name": "Маркер черный",
+    "demand": 600,
+    "orderCost": 180,
+    "holdingCost": 4,
+    "unit": "шт"
+  },
+  {
+    "id": 6,
+    "name": "Ручки шариковые",
+    "demand": 5000,
+    "orderCost": 100,
+    "holdingCost": 0.5,
+    "unit": "шт"
+  },
+  {
+    "id": 7,
+    "name": "Папки пластиковые",
+    "demand": 1500,
+    "orderCost": 220,
+    "holdingCost": 1.2,
+    "unit": "шт"
+  },
+  {
+    "id": 8,
+    "name": "Ламинирующая пленка",
+    "demand": 700,
+    "orderCost": 300,
+    "holdingCost": 3,
+    "unit": "упаковок"
+  },
+  {
+    "id": 9,
+    "name": "Степлеры",
+    "demand": 400,
+    "orderCost": 350,
+    "holdingCost": 10,
+    "unit": "шт"
+  },
+  {
+    "id": 10,
+    "name": "Скрепки",
+    "demand": 20000,
+    "orderCost": 90,
+    "holdingCost": 0.1,
+    "unit": "шт"
+  },
+  {
+    "id": 11,
+    "name": "Папки-регистраторы",
+    "demand": 1000,
+    "orderCost": 280,
+    "holdingCost": 2.5,
+    "unit": "шт"
+  },
+  {
+    "id": 12,
+    "name": "Конверты С5",
+    "demand": 3500,
+    "orderCost": 130,
+    "holdingCost": 0.6,
+    "unit": "шт"
+  },
+  {
+    "id": 13,
+    "name": "Пакеты почтовые",
+    "demand": 1600,
+    "orderCost": 200,
+    "holdingCost": 1.4,
+    "unit": "шт"
+  },
+  {
+    "id": 14,
+    "name": "Калькуляторы",
+    "demand": 150,
+    "orderCost": 400,
+    "holdingCost": 15,
+    "unit": "шт"
+  },
+  {
+    "id": 15,
+    "name": "Дыроколы",
+    "demand": 250,
+    "orderCost": 320,
+    "holdingCost": 8,
+    "unit": "шт"
+  },
+  {
+    "id": 16,
+    "name": "Флешки 32ГБ",
+    "demand": 900,
+    "orderCost": 270,
+    "holdingCost": 5,
+    "unit": "шт"
+  },
+  {
+    "id": 17,
+    "name": "Канцелярские ножи",
+    "demand": 1200,
+    "orderCost": 190,
+    "holdingCost": 2.2,
+    "unit": "шт"
+  },
+  {
+    "id": 18,
+    "name": "Блокноты",
+    "demand": 2200,
+    "orderCost": 150,
+    "holdingCost": 1.1,
+    "unit": "шт"
+  },
+  {
+    "id": 19,
+    "name": "Стикеры",
+    "demand": 3000,
+    "orderCost": 100,
+    "holdingCost": 0.7,
+    "unit": "упаковок"
+  },
+  {
+    "id": 20,
+    "name": "Клей-карандаш",
+    "demand": 1100,
+    "orderCost": 200,
+    "holdingCost": 1.8,
+    "unit": "шт"
+  }
+]
